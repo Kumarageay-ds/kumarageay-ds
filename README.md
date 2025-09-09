@@ -4,21 +4,15 @@
 
 # Welcome To My GitHub Profile !
 
-<br/>
-<div align="center">
-<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/Name%20Banner%20new.gif" alt="Kumar Ageay Typer"  />
-</div>
-<br/>
-
-<hr>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 - 🙌 I'm currently open to: **Data Analyst role in (Finance, Sales, Healthcare) Domains**
 
-- ⚒️ Data Analyst with 3.5 years of experience in statistical analysis, automation, and business intelligence. Highly skilled in SQL, Python, Power 
-BI, Tableau and Machine Learning, with deep knowledge of the E-commerce and Real-state domain. Ready to contribute to a data science 
-and analytics team and expand my skills in AI.
+### Work experience 👔
+
+| Job Position                  | Company                    | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| Data Analyst                  |Ava Consultancy Services    |  Dashboard insights           | April 2023 – present  |
+| Associate Software Engineer   | Marlabs                    | analyze extensive CRM data    | Dec 2021 – Feb 2023   |
+
 
 ### Talking about Personal Stuff:
 
@@ -64,6 +58,7 @@ and analytics team and expand my skills in AI.
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Kumarageay-ds&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
+  
   <a href="https://buymeacoffee.com/kumarageay"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 <div align="center">
