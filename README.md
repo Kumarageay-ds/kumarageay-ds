@@ -2,7 +2,14 @@
 <img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
+
+
 # Welcome To My GitHub Profile !
+
+<p align="center">
+  <img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/kumar%20Bannner%201.gif" alt="Hi, I'm Kumar Ageay 👋 I'm a 🚀 Data Analyst 🚀 I ❤️ Visualisation ❤️">
+</p>
+
 
 # I'm Kumar Ageay, a full-time Data Analyst 👨‍💻 working remotely since Dec 2021 🚀
 
