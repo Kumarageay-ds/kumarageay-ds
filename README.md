@@ -1,17 +1,23 @@
+<div align="center">
+<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+# Welcome To My GitHub Profile !
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+Ageay....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
+<br/>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Kumar Ageay Typer" />
+</div>
+<br/>
 
 <hr>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+- 🙌 I'm currently open to: **Data Analyst role in (Finance, Sales, Healthcare) Domains**
+- Data Analyst with 3.5 years of experience in statistical analysis, automation, and business intelligence. Highly skilled in SQL, Python, Power 
+BI, Tableau and Machine Learning, with deep knowledge of the E-commerce and Real-state domain. Ready to contribute to a data science 
+and analytics team and expand my skills in AI.
 
 ### Talking about Personal Stuff:
 
@@ -89,4 +95,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
 
