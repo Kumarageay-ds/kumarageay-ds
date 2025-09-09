@@ -29,7 +29,9 @@
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 👾 &nbsp; Fun fact: Without Data Analysts, data is just noise..
 - 🧑‍💻 &nbsp; Bachelor of Engineering | Computer Science | RGPV, Bhopal 
-- 📫 &nbsp; Reach me out: kumarageay@gmail.com. 
+- 📫 &nbsp; Reach me out: kumarageay@gmail.com.
+# Portfolio Link:
+  🔗 &nbsp;  https://kumarageay-ds.github.io/Kumarageay.Portfolio/
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
