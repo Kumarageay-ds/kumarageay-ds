@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/text_animation.gif" alt="Kumar Ageay Typer" />
+<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/Name%20Banner%20new.gif" alt="Kumar Ageay Typer"  />
 </div>
 <br/>
 
@@ -15,7 +15,8 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🙌 I'm currently open to: **Data Analyst role in (Finance, Sales, Healthcare) Domains**
-- Data Analyst with 3.5 years of experience in statistical analysis, automation, and business intelligence. Highly skilled in SQL, Python, Power 
+
+- ⚒️ Data Analyst with 3.5 years of experience in statistical analysis, automation, and business intelligence. Highly skilled in SQL, Python, Power 
 BI, Tableau and Machine Learning, with deep knowledge of the E-commerce and Real-state domain. Ready to contribute to a data science 
 and analytics team and expand my skills in AI.
 
@@ -24,33 +25,31 @@ and analytics team and expand my skills in AI.
 - 🛠 &nbsp; I’m currently working with python,sql,powerbi,statistics etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 👾 &nbsp; Fun fact: Without Data Analysts, data is just noise..
-- 📫 &nbsp; Reach me out: kumarageay@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 🧑‍💻 &nbsp; Bachelor of Engineering | Computer Science | RGPV, Bhopal 
+- 📫 &nbsp; Reach me out: kumarageay@gmail.com. 
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 
 ### Show some ❤️ by starring some of the repositories!
 
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thedata_decoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KumarAgeayTechie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarageay@gmail.com) 
-
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kumarageay-ds&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+<div align="center">
+<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
+
+
+
+
+
+
+<div align="center">
+<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
 
 
 
@@ -67,6 +66,13 @@ and analytics team and expand my skills in AI.
   <br>
   <a href="https://buymeacoffee.com/kumarageay"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
+<div align="center">
+  
+<img src="https://github.com/Kumarageay-ds/kumarageay-ds/blob/main/connected.gif" alt="Kumar Ageay" width="350" height="200" />
+</div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thedata_decoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KumarAgeayTechie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarageay@gmail.com) 
 
 
 <div>
